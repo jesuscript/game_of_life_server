@@ -1,0 +1,9 @@
+[package]
+name = "game_of_life"
+version = "0.0.0"
+authors = ["jesuscript <konstantin.k.ed@gmail.com>"]
+
+[dependencies]
+ws = "*"
+log = "0.4.1"
+
